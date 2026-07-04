@@ -1,0 +1,13 @@
+
+name = input("Enter your name : ")
+city = input("Enter your city : ")
+favorite_language = input("Enter your favorite programming language : ")
+favorite_color = input("Enter your favorite color : ")
+dream_company = input("Enter your dream company : ")
+print("===== USER DETAILS =====")
+print(f"Name               : {name}")
+print(f"City               : {city}")
+print(f"Favorite Language  : {favorite_language}")
+print(f"Favorite Color     : {favorite_color}")
+print(f"Dream Company      : {dream_company}")
+print("========================")
